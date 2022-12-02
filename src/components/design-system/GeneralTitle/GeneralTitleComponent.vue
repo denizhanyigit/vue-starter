@@ -1,0 +1,3 @@
+<template>
+  <GeneralTitleComponent/>
+</template>
